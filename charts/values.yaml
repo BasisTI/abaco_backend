@@ -29,8 +29,6 @@ abaco:
   replicaCount: 1
   ports:
     port: 8080
-  health:
-    disabled: true
   imagePullSecrets:
   - name: basis-registry
   memory:
