@@ -109,7 +109,7 @@ postgresql:
   fullnameOverride: pgsql-abaco
   postgresqlUsername: abaco
   postgresqlPassword: abaco
-  postgresqlDatabase: basis
+  postgresqlDatabase: abaco
   postgresqlPostgresPassword: asdfqwerzxcv
   persistence:
     storageClass: nfs-name
